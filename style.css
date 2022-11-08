@@ -1,1 +1,18 @@
-
+body{
+    background-color:pink ;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color:black ;
+    font-family:Arial ;
+    background:wheat ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color:black ;
+    font-family:Helvetica ;
+    font-size:20 px ;
+    background:plum ;
+    }
